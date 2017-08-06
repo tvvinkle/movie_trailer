@@ -6,7 +6,7 @@ It serves this data as a web page, which allows to review movies and trailers
 ## How to use
 Open **movie.py** and  add movie information as following
 
-  ##Step 1.
+###Step 1.
       Movie_Title = movie.Movie("Movie_Title",
                               "Movie_Storyline",
                               "Movie_Poster_URL",
