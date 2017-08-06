@@ -1,20 +1,18 @@
 # movie_trailer
 
 Store a list of your favorite movies, including box art imagery and a movie trailer UR.
-It serves this data as a web page, which allows to review movies and trailers
+It generates HTML file with data, which allows to review movies and trailers
 
 ## How to use
-Open **movie.py** and  add movie information as following
 
-  ### Step 1.  
+  ### Step 1. Open **movie.py** and  add movie information as following
+  
       Movie_Title = movie.Movie("Movie_Title",
                               "Movie_Storyline",
                               "Movie_Poster_URL",
                               "Movie_Trailer_URL")
                               
-  ### Step 2.
-      Add _Movie_Title_ to **movies** List
+  ### Step 2. Add _Movie_Title_ to **movies** List
       
-  ### Step 3. 
-      Run the code
+  ### Step 3. Run the code
 
