@@ -1,5 +1,12 @@
 """
 Provide all information of movies
+
+example:
+  Movie_Title = movie.Movie(
+    "Movie_Title",
+    "Movie_Storyline",
+    "Movie_Poster_URL",
+    "Movie_Trailer_URL")
 """
 
 import movie
@@ -34,7 +41,8 @@ before_me = movie.Movie(
   when Louisa shows him that life is worth living. As their bond deepens, \
   their lives and hearts change in ways neither one could have imagined.''',
   "https://images.redbox.com/Images/EPC/boxartvertical/7580.jpg",
-  "https://www.youtube.com/watch?v=T0MmkG_nG1U")
+  "https://www.youtube.com/watch?v=T0MmkG_nG1U"
+)
 
 okja = movie.Movie(
   "Okja",
