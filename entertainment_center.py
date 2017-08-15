@@ -9,8 +9,8 @@ example:
     "Movie_Trailer_URL")
 """
 
-import movie
-import fresh_tomatoes
+import movie  # parent class object
+import fresh_tomatoes  # scripting for generate html page
 
 toy_story = movie.Movie(
   "Toy Story",
