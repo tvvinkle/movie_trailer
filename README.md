@@ -11,10 +11,10 @@ This requires python 2.7+ version
   - entertainment_center.py
   - fresh_tomatoes.py
   - movie.py
+* Example
+  - fresh_tomatoes.html
 
 ## Operating Instruction
-
-### How to use
   
   #### Step 1. Open **movie.py** and  add movie information as following
   
