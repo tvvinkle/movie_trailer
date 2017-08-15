@@ -8,9 +8,9 @@ This requires python 2.7+ version
 
 ## Contents
 * Project files
-- entertainment_center.py
-- fresh_tomatoes.py
-- movie.py
+  - entertainment_center.py
+  - fresh_tomatoes.py
+  - movie.py
 
 ## Operating Instruction
 
