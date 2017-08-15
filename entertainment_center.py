@@ -94,9 +94,9 @@ lalaland = movie.Movie(
 
 sing_street = movie.Movie(
   "Sing Street",
-  '''In 1985, a Dublin teenager (Ferdia Walsh-Peelo) forms a rock\
-  'n' roll band to win the heart of an aspiring model (Lucy Boynton).",
-  "http://t0.gstatic.com/images?q=tbn:ANd9GcT8740T9I0VTsHGFME_hPrx0Py1qf3t_7GMnBhcvz2hR3QdG6FT''',  # noqa
+  '''In 1985, a Dublin teenager (Ferdia Walsh-Peelo) forms a rock n roll band\
+  to win the heart of an aspiring model''',
+  "http://t0.gstatic.com/images?q=tbn:ANd9GcT8740T9I0VTsHGFME_hPrx0Py1qf3t_7GMnBhcvz2hR3QdG6FT",  # noqa
   "https://www.youtube.com/watch?v=C_YqJ_aimkM")
 
 civil_war = movie.Movie(
