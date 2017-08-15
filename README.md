@@ -16,8 +16,8 @@ It generates HTML file with data, which allows to review movies and trailers
       
   ### Step 3. Run the code
     
-   -Using the terminal
-     *Type python `entertainment_center.py`
-   -Using the Python IDLE
-      *Select Run from the IDLE menu,
-      *Click `Run Module` from the dropdown list
+   - Using the terminal
+     * Type python `entertainment_center.py`
+   - Using the Python IDLE
+      * Select Run from the IDLE menu,
+      * Click `Run Module` from the dropdown list
