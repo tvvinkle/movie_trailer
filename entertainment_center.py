@@ -93,7 +93,8 @@ sing_street = movie.Movie(
 
 civil_war = movie.Movie(
   "Captain America: Civil War",
-  "Captain America: Civil War",
+  '''Political interference in the Avengers' activities causes a \
+  rift between former allies Captain America and Iron Man.''',
   "http://t3.gstatic.com/images?q=tbn:ANd9GcTz1xU3qYlGXViIS51HIQh71D339ceW2nlWnb8zzSaJAL0newVj",  # noqa
   "https://www.youtube.com/watch?v=dKrVegVI0Us")
 
