@@ -40,7 +40,7 @@ before_me = movie.Movie(
   accident two years earlier. Will's cynical outlook starts to change \
   when Louisa shows him that life is worth living. As their bond deepens, \
   their lives and hearts change in ways neither one could have imagined.''',
-  "https://images.redbox.com/Images/EPC/boxartvertical/7580.jpg",
+  "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Me_Before_You_%28film%29.jpg/220px-Me_Before_You_%28film%29.jpg", # noqa
   "https://www.youtube.com/watch?v=T0MmkG_nG1U"
 )
 
